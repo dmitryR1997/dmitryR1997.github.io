@@ -7,5 +7,5 @@ dist
 .vscode
 node_modules
 /web/
-/build/
+#/build/
 /build-dev/
